@@ -1,6 +1,6 @@
 
 
-This repository contains the source code for Hesam's Blog, a simple blogging website built using Flask, HTML, and CSS. The blog allows users to view a collection of blog posts, read individual posts, and navigate to the about and contact pages.
+A simple blogging website built using Flask, HTML, and CSS. The blog allows users to view a collection of blog posts, read individual posts, and navigate to the about and contact pages.
 Features:
 * Homepage: Displays a list of blog post previews with titles, subtitles, and authors.
 * Individual Post Pages: Users can click on a post preview to view the full post along with the author's name and posting date.
